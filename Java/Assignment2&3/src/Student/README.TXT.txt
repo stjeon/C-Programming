@@ -1,0 +1,1 @@
+This java program was made for the purpose of practicing collection usage and collection manipulation.
