@@ -1,0 +1,1 @@
+This project simulates a basic students' course enroller. Students may navigate through the menu to enroll, observe and edit their course selections. This project applies the main fundamentals of C++ functionalities and principles.
